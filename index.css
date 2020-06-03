@@ -37,6 +37,11 @@
     background-repeat: no-repeat;
 }
 
+.main table td.normal {
+    border:2px solid #EEE;
+    background-color:#AAA;
+}
+
 .main table td.normal:hover{
     background: #aaaaaa;
 }
@@ -57,9 +62,9 @@
     margin: 5px;
 }
 
-.main .tip ul{
+/*.main .tip ul{*/
 
-}
+/*}*/
 
 .main .tip ul li{
     margin: 5px 0;
